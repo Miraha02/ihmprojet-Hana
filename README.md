@@ -1,4 +1,4 @@
-Composition du groupe: Dadoud Ahmed, Delcourt Clément, Plouvin Patrick
+Composition du groupe: Dahoud Ahmed, Delcourt Hana, Plouvin Patrick
 
 Procédure de lancement: Exécuter le fichier main.py à l'aide d'une commande python ou d'un logiciel tel que PyCharm, Thonny, VSCode etc...
 
